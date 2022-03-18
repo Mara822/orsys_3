@@ -1,4 +1,9 @@
+Installation local
 dpkg--rpm
+=======
+
+Installation distante: apt-yum
+>>>>>>> paquet_distant
 
 La liste des paquets installés:
 
